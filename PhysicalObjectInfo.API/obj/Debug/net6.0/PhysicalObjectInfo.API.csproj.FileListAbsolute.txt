@@ -1,0 +1,195 @@
+C:\Users\urdan\source\repos\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\urdan\source\repos\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\appsettings.json
+C:\Users\urdan\source\repos\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\PhysicalObjectInfo.API.exe
+C:\Users\urdan\source\repos\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\PhysicalObjectInfo.API.deps.json
+C:\Users\urdan\source\repos\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\PhysicalObjectInfo.API.runtimeconfig.json
+C:\Users\urdan\source\repos\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\PhysicalObjectInfo.API.dll
+C:\Users\urdan\source\repos\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\ref\PhysicalObjectInfo.API.dll
+C:\Users\urdan\source\repos\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\PhysicalObjectInfo.API.pdb
+C:\Users\urdan\source\repos\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\urdan\source\repos\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\urdan\source\repos\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\urdan\source\repos\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\urdan\source\repos\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\urdan\source\repos\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\urdan\source\repos\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\urdan\source\repos\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\urdan\source\repos\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\urdan\source\repos\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\urdan\source\repos\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\urdan\source\repos\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\urdan\source\repos\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\urdan\source\repos\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\urdan\source\repos\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\urdan\source\repos\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\urdan\source\repos\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\urdan\source\repos\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\urdan\source\repos\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\urdan\source\repos\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\urdan\source\repos\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\urdan\source\repos\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\urdan\source\repos\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\urdan\source\repos\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\urdan\source\repos\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\urdan\source\repos\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\urdan\source\repos\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\urdan\source\repos\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\urdan\source\repos\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\urdan\source\repos\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\urdan\source\repos\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\urdan\source\repos\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\urdan\source\repos\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\urdan\source\repos\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\urdan\source\repos\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\urdan\source\repos\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\urdan\source\repos\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\urdan\source\repos\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\urdan\source\repos\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\PhysicalObjectInfo.Domain.dll
+C:\Users\urdan\source\repos\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\PhysicalObjectInfo.Infrastructure.dll
+C:\Users\urdan\source\repos\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\PhysicalObjectInfo.Domain.pdb
+C:\Users\urdan\source\repos\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\PhysicalObjectInfo.Infrastructure.pdb
+C:\Users\urdan\source\repos\PhysicalObjectInfo\PhysicalObjectInfo.API\obj\Debug\net6.0\PhysicalObjectInfo.API.csproj.AssemblyReference.cache
+C:\Users\urdan\source\repos\PhysicalObjectInfo\PhysicalObjectInfo.API\obj\Debug\net6.0\PhysicalObjectInfo.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\urdan\source\repos\PhysicalObjectInfo\PhysicalObjectInfo.API\obj\Debug\net6.0\PhysicalObjectInfo.API.AssemblyInfoInputs.cache
+C:\Users\urdan\source\repos\PhysicalObjectInfo\PhysicalObjectInfo.API\obj\Debug\net6.0\PhysicalObjectInfo.API.AssemblyInfo.cs
+C:\Users\urdan\source\repos\PhysicalObjectInfo\PhysicalObjectInfo.API\obj\Debug\net6.0\PhysicalObjectInfo.API.csproj.CoreCompileInputs.cache
+C:\Users\urdan\source\repos\PhysicalObjectInfo\PhysicalObjectInfo.API\obj\Debug\net6.0\PhysicalObjectInfo.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\urdan\source\repos\PhysicalObjectInfo\PhysicalObjectInfo.API\obj\Debug\net6.0\PhysicalObjectInfo.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\urdan\source\repos\PhysicalObjectInfo\PhysicalObjectInfo.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\urdan\source\repos\PhysicalObjectInfo\PhysicalObjectInfo.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\urdan\source\repos\PhysicalObjectInfo\PhysicalObjectInfo.API\obj\Debug\net6.0\scopedcss\bundle\PhysicalObjectInfo.API.styles.css
+C:\Users\urdan\source\repos\PhysicalObjectInfo\PhysicalObjectInfo.API\obj\Debug\net6.0\PhysicalObjectInfo.API.csproj.CopyComplete
+C:\Users\urdan\source\repos\PhysicalObjectInfo\PhysicalObjectInfo.API\obj\Debug\net6.0\PhysicalObjectInfo.API.dll
+C:\Users\urdan\source\repos\PhysicalObjectInfo\PhysicalObjectInfo.API\obj\Debug\net6.0\ref\PhysicalObjectInfo.API.dll
+C:\Users\urdan\source\repos\PhysicalObjectInfo\PhysicalObjectInfo.API\obj\Debug\net6.0\PhysicalObjectInfo.API.pdb
+C:\Users\urdan\source\repos\PhysicalObjectInfo\PhysicalObjectInfo.API\obj\Debug\net6.0\PhysicalObjectInfo.API.genruntimeconfig.cache
+C:\Users\urdan\OneDrive\Рабочий стол\ВКР\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\urdan\OneDrive\Рабочий стол\ВКР\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\appsettings.json
+C:\Users\urdan\OneDrive\Рабочий стол\ВКР\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\PhysicalObjectInfo.API.exe
+C:\Users\urdan\OneDrive\Рабочий стол\ВКР\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\PhysicalObjectInfo.API.deps.json
+C:\Users\urdan\OneDrive\Рабочий стол\ВКР\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\PhysicalObjectInfo.API.runtimeconfig.json
+C:\Users\urdan\OneDrive\Рабочий стол\ВКР\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\PhysicalObjectInfo.API.dll
+C:\Users\urdan\OneDrive\Рабочий стол\ВКР\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\ref\PhysicalObjectInfo.API.dll
+C:\Users\urdan\OneDrive\Рабочий стол\ВКР\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\PhysicalObjectInfo.API.pdb
+C:\Users\urdan\OneDrive\Рабочий стол\ВКР\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\urdan\OneDrive\Рабочий стол\ВКР\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\urdan\OneDrive\Рабочий стол\ВКР\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\urdan\OneDrive\Рабочий стол\ВКР\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\urdan\OneDrive\Рабочий стол\ВКР\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\urdan\OneDrive\Рабочий стол\ВКР\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\urdan\OneDrive\Рабочий стол\ВКР\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\urdan\OneDrive\Рабочий стол\ВКР\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\urdan\OneDrive\Рабочий стол\ВКР\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\urdan\OneDrive\Рабочий стол\ВКР\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\urdan\OneDrive\Рабочий стол\ВКР\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\urdan\OneDrive\Рабочий стол\ВКР\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\urdan\OneDrive\Рабочий стол\ВКР\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\urdan\OneDrive\Рабочий стол\ВКР\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\urdan\OneDrive\Рабочий стол\ВКР\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\urdan\OneDrive\Рабочий стол\ВКР\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\urdan\OneDrive\Рабочий стол\ВКР\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\urdan\OneDrive\Рабочий стол\ВКР\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\urdan\OneDrive\Рабочий стол\ВКР\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\urdan\OneDrive\Рабочий стол\ВКР\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\urdan\OneDrive\Рабочий стол\ВКР\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\urdan\OneDrive\Рабочий стол\ВКР\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\urdan\OneDrive\Рабочий стол\ВКР\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\urdan\OneDrive\Рабочий стол\ВКР\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\urdan\OneDrive\Рабочий стол\ВКР\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\urdan\OneDrive\Рабочий стол\ВКР\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\urdan\OneDrive\Рабочий стол\ВКР\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\urdan\OneDrive\Рабочий стол\ВКР\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\urdan\OneDrive\Рабочий стол\ВКР\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\urdan\OneDrive\Рабочий стол\ВКР\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\urdan\OneDrive\Рабочий стол\ВКР\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\urdan\OneDrive\Рабочий стол\ВКР\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\urdan\OneDrive\Рабочий стол\ВКР\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\urdan\OneDrive\Рабочий стол\ВКР\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\urdan\OneDrive\Рабочий стол\ВКР\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\urdan\OneDrive\Рабочий стол\ВКР\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\urdan\OneDrive\Рабочий стол\ВКР\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\urdan\OneDrive\Рабочий стол\ВКР\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\urdan\OneDrive\Рабочий стол\ВКР\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\PhysicalObjectInfo.Domain.dll
+C:\Users\urdan\OneDrive\Рабочий стол\ВКР\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\PhysicalObjectInfo.Infrastructure.dll
+C:\Users\urdan\OneDrive\Рабочий стол\ВКР\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\PhysicalObjectInfo.Domain.pdb
+C:\Users\urdan\OneDrive\Рабочий стол\ВКР\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\PhysicalObjectInfo.Infrastructure.pdb
+C:\Users\urdan\OneDrive\Рабочий стол\ВКР\PhysicalObjectInfo\PhysicalObjectInfo.API\obj\Debug\net6.0\PhysicalObjectInfo.API.csproj.AssemblyReference.cache
+C:\Users\urdan\OneDrive\Рабочий стол\ВКР\PhysicalObjectInfo\PhysicalObjectInfo.API\obj\Debug\net6.0\PhysicalObjectInfo.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\urdan\OneDrive\Рабочий стол\ВКР\PhysicalObjectInfo\PhysicalObjectInfo.API\obj\Debug\net6.0\PhysicalObjectInfo.API.AssemblyInfoInputs.cache
+C:\Users\urdan\OneDrive\Рабочий стол\ВКР\PhysicalObjectInfo\PhysicalObjectInfo.API\obj\Debug\net6.0\PhysicalObjectInfo.API.AssemblyInfo.cs
+C:\Users\urdan\OneDrive\Рабочий стол\ВКР\PhysicalObjectInfo\PhysicalObjectInfo.API\obj\Debug\net6.0\PhysicalObjectInfo.API.csproj.CoreCompileInputs.cache
+C:\Users\urdan\OneDrive\Рабочий стол\ВКР\PhysicalObjectInfo\PhysicalObjectInfo.API\obj\Debug\net6.0\PhysicalObjectInfo.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\urdan\OneDrive\Рабочий стол\ВКР\PhysicalObjectInfo\PhysicalObjectInfo.API\obj\Debug\net6.0\PhysicalObjectInfo.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\urdan\OneDrive\Рабочий стол\ВКР\PhysicalObjectInfo\PhysicalObjectInfo.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\urdan\OneDrive\Рабочий стол\ВКР\PhysicalObjectInfo\PhysicalObjectInfo.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\urdan\OneDrive\Рабочий стол\ВКР\PhysicalObjectInfo\PhysicalObjectInfo.API\obj\Debug\net6.0\scopedcss\bundle\PhysicalObjectInfo.API.styles.css
+C:\Users\urdan\OneDrive\Рабочий стол\ВКР\PhysicalObjectInfo\PhysicalObjectInfo.API\obj\Debug\net6.0\PhysicalObjectInfo.API.csproj.CopyComplete
+C:\Users\urdan\OneDrive\Рабочий стол\ВКР\PhysicalObjectInfo\PhysicalObjectInfo.API\obj\Debug\net6.0\PhysicalObjectInfo.API.dll
+C:\Users\urdan\OneDrive\Рабочий стол\ВКР\PhysicalObjectInfo\PhysicalObjectInfo.API\obj\Debug\net6.0\ref\PhysicalObjectInfo.API.dll
+C:\Users\urdan\OneDrive\Рабочий стол\ВКР\PhysicalObjectInfo\PhysicalObjectInfo.API\obj\Debug\net6.0\PhysicalObjectInfo.API.pdb
+C:\Users\urdan\OneDrive\Рабочий стол\ВКР\PhysicalObjectInfo\PhysicalObjectInfo.API\obj\Debug\net6.0\PhysicalObjectInfo.API.genruntimeconfig.cache
+D:\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\appsettings.Development.json
+D:\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\appsettings.json
+D:\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\PhysicalObjectInfo.API.exe
+D:\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\PhysicalObjectInfo.API.deps.json
+D:\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\PhysicalObjectInfo.API.runtimeconfig.json
+D:\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\PhysicalObjectInfo.API.dll
+D:\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\PhysicalObjectInfo.API.pdb
+D:\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\Humanizer.dll
+D:\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\PhysicalObjectInfo.Domain.dll
+D:\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\PhysicalObjectInfo.Infrastructure.dll
+D:\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\PhysicalObjectInfo.Domain.pdb
+D:\PhysicalObjectInfo\PhysicalObjectInfo.API\bin\Debug\net6.0\PhysicalObjectInfo.Infrastructure.pdb
+D:\PhysicalObjectInfo\PhysicalObjectInfo.API\obj\Debug\net6.0\PhysicalObjectInfo.API.csproj.AssemblyReference.cache
+D:\PhysicalObjectInfo\PhysicalObjectInfo.API\obj\Debug\net6.0\PhysicalObjectInfo.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\PhysicalObjectInfo\PhysicalObjectInfo.API\obj\Debug\net6.0\PhysicalObjectInfo.API.AssemblyInfoInputs.cache
+D:\PhysicalObjectInfo\PhysicalObjectInfo.API\obj\Debug\net6.0\PhysicalObjectInfo.API.AssemblyInfo.cs
+D:\PhysicalObjectInfo\PhysicalObjectInfo.API\obj\Debug\net6.0\PhysicalObjectInfo.API.csproj.CoreCompileInputs.cache
+D:\PhysicalObjectInfo\PhysicalObjectInfo.API\obj\Debug\net6.0\PhysicalObjectInfo.API.MvcApplicationPartsAssemblyInfo.cs
+D:\PhysicalObjectInfo\PhysicalObjectInfo.API\obj\Debug\net6.0\PhysicalObjectInfo.API.MvcApplicationPartsAssemblyInfo.cache
+D:\PhysicalObjectInfo\PhysicalObjectInfo.API\obj\Debug\net6.0\staticwebassets.build.json
+D:\PhysicalObjectInfo\PhysicalObjectInfo.API\obj\Debug\net6.0\staticwebassets.development.json
+D:\PhysicalObjectInfo\PhysicalObjectInfo.API\obj\Debug\net6.0\scopedcss\bundle\PhysicalObjectInfo.API.styles.css
+D:\PhysicalObjectInfo\PhysicalObjectInfo.API\obj\Debug\net6.0\PhysicalObjectInfo.API.csproj.CopyComplete
+D:\PhysicalObjectInfo\PhysicalObjectInfo.API\obj\Debug\net6.0\PhysicalObjectInfo.API.dll
+D:\PhysicalObjectInfo\PhysicalObjectInfo.API\obj\Debug\net6.0\refint\PhysicalObjectInfo.API.dll
+D:\PhysicalObjectInfo\PhysicalObjectInfo.API\obj\Debug\net6.0\PhysicalObjectInfo.API.pdb
+D:\PhysicalObjectInfo\PhysicalObjectInfo.API\obj\Debug\net6.0\PhysicalObjectInfo.API.genruntimeconfig.cache
+D:\PhysicalObjectInfo\PhysicalObjectInfo.API\obj\Debug\net6.0\ref\PhysicalObjectInfo.API.dll

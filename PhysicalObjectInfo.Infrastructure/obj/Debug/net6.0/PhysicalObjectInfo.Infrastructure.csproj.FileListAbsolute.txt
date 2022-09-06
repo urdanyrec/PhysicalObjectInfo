@@ -1,0 +1,51 @@
+C:\Users\urdan\source\repos\PhysicalObjectInfo\PhysicalObjectInfo.Infrastructure\bin\Debug\net6.0\PhysicalObjectInfo.Infrastructure.deps.json
+C:\Users\urdan\source\repos\PhysicalObjectInfo\PhysicalObjectInfo.Infrastructure\bin\Debug\net6.0\PhysicalObjectInfo.Infrastructure.runtimeconfig.json
+C:\Users\urdan\source\repos\PhysicalObjectInfo\PhysicalObjectInfo.Infrastructure\bin\Debug\net6.0\PhysicalObjectInfo.Infrastructure.dll
+C:\Users\urdan\source\repos\PhysicalObjectInfo\PhysicalObjectInfo.Infrastructure\bin\Debug\net6.0\ref\PhysicalObjectInfo.Infrastructure.dll
+C:\Users\urdan\source\repos\PhysicalObjectInfo\PhysicalObjectInfo.Infrastructure\bin\Debug\net6.0\PhysicalObjectInfo.Infrastructure.pdb
+C:\Users\urdan\source\repos\PhysicalObjectInfo\PhysicalObjectInfo.Infrastructure\bin\Debug\net6.0\PhysicalObjectInfo.Domain.dll
+C:\Users\urdan\source\repos\PhysicalObjectInfo\PhysicalObjectInfo.Infrastructure\bin\Debug\net6.0\PhysicalObjectInfo.Domain.pdb
+C:\Users\urdan\source\repos\PhysicalObjectInfo\PhysicalObjectInfo.Infrastructure\obj\Debug\net6.0\PhysicalObjectInfo.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\urdan\source\repos\PhysicalObjectInfo\PhysicalObjectInfo.Infrastructure\obj\Debug\net6.0\PhysicalObjectInfo.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\urdan\source\repos\PhysicalObjectInfo\PhysicalObjectInfo.Infrastructure\obj\Debug\net6.0\PhysicalObjectInfo.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\urdan\source\repos\PhysicalObjectInfo\PhysicalObjectInfo.Infrastructure\obj\Debug\net6.0\PhysicalObjectInfo.Infrastructure.AssemblyInfo.cs
+C:\Users\urdan\source\repos\PhysicalObjectInfo\PhysicalObjectInfo.Infrastructure\obj\Debug\net6.0\PhysicalObjectInfo.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\urdan\source\repos\PhysicalObjectInfo\PhysicalObjectInfo.Infrastructure\obj\Debug\net6.0\PhysicalObjectInfo.Infrastructure.csproj.CopyComplete
+C:\Users\urdan\source\repos\PhysicalObjectInfo\PhysicalObjectInfo.Infrastructure\obj\Debug\net6.0\PhysicalObjectInfo.Infrastructure.dll
+C:\Users\urdan\source\repos\PhysicalObjectInfo\PhysicalObjectInfo.Infrastructure\obj\Debug\net6.0\ref\PhysicalObjectInfo.Infrastructure.dll
+C:\Users\urdan\source\repos\PhysicalObjectInfo\PhysicalObjectInfo.Infrastructure\obj\Debug\net6.0\PhysicalObjectInfo.Infrastructure.pdb
+C:\Users\urdan\source\repos\PhysicalObjectInfo\PhysicalObjectInfo.Infrastructure\obj\Debug\net6.0\PhysicalObjectInfo.Infrastructure.genruntimeconfig.cache
+C:\Users\urdan\OneDrive\Рабочий стол\ВКР\PhysicalObjectInfo\PhysicalObjectInfo.Infrastructure\bin\Debug\net6.0\PhysicalObjectInfo.Infrastructure.deps.json
+C:\Users\urdan\OneDrive\Рабочий стол\ВКР\PhysicalObjectInfo\PhysicalObjectInfo.Infrastructure\bin\Debug\net6.0\PhysicalObjectInfo.Infrastructure.runtimeconfig.json
+C:\Users\urdan\OneDrive\Рабочий стол\ВКР\PhysicalObjectInfo\PhysicalObjectInfo.Infrastructure\bin\Debug\net6.0\PhysicalObjectInfo.Infrastructure.dll
+C:\Users\urdan\OneDrive\Рабочий стол\ВКР\PhysicalObjectInfo\PhysicalObjectInfo.Infrastructure\bin\Debug\net6.0\ref\PhysicalObjectInfo.Infrastructure.dll
+C:\Users\urdan\OneDrive\Рабочий стол\ВКР\PhysicalObjectInfo\PhysicalObjectInfo.Infrastructure\bin\Debug\net6.0\PhysicalObjectInfo.Infrastructure.pdb
+C:\Users\urdan\OneDrive\Рабочий стол\ВКР\PhysicalObjectInfo\PhysicalObjectInfo.Infrastructure\bin\Debug\net6.0\PhysicalObjectInfo.Domain.dll
+C:\Users\urdan\OneDrive\Рабочий стол\ВКР\PhysicalObjectInfo\PhysicalObjectInfo.Infrastructure\bin\Debug\net6.0\PhysicalObjectInfo.Domain.pdb
+C:\Users\urdan\OneDrive\Рабочий стол\ВКР\PhysicalObjectInfo\PhysicalObjectInfo.Infrastructure\obj\Debug\net6.0\PhysicalObjectInfo.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\urdan\OneDrive\Рабочий стол\ВКР\PhysicalObjectInfo\PhysicalObjectInfo.Infrastructure\obj\Debug\net6.0\PhysicalObjectInfo.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\urdan\OneDrive\Рабочий стол\ВКР\PhysicalObjectInfo\PhysicalObjectInfo.Infrastructure\obj\Debug\net6.0\PhysicalObjectInfo.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\urdan\OneDrive\Рабочий стол\ВКР\PhysicalObjectInfo\PhysicalObjectInfo.Infrastructure\obj\Debug\net6.0\PhysicalObjectInfo.Infrastructure.AssemblyInfo.cs
+C:\Users\urdan\OneDrive\Рабочий стол\ВКР\PhysicalObjectInfo\PhysicalObjectInfo.Infrastructure\obj\Debug\net6.0\PhysicalObjectInfo.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\urdan\OneDrive\Рабочий стол\ВКР\PhysicalObjectInfo\PhysicalObjectInfo.Infrastructure\obj\Debug\net6.0\PhysicalObjectInfo.Infrastructure.csproj.CopyComplete
+C:\Users\urdan\OneDrive\Рабочий стол\ВКР\PhysicalObjectInfo\PhysicalObjectInfo.Infrastructure\obj\Debug\net6.0\PhysicalObjectInfo.Infrastructure.dll
+C:\Users\urdan\OneDrive\Рабочий стол\ВКР\PhysicalObjectInfo\PhysicalObjectInfo.Infrastructure\obj\Debug\net6.0\ref\PhysicalObjectInfo.Infrastructure.dll
+C:\Users\urdan\OneDrive\Рабочий стол\ВКР\PhysicalObjectInfo\PhysicalObjectInfo.Infrastructure\obj\Debug\net6.0\PhysicalObjectInfo.Infrastructure.pdb
+C:\Users\urdan\OneDrive\Рабочий стол\ВКР\PhysicalObjectInfo\PhysicalObjectInfo.Infrastructure\obj\Debug\net6.0\PhysicalObjectInfo.Infrastructure.genruntimeconfig.cache
+D:\PhysicalObjectInfo\PhysicalObjectInfo.Infrastructure\bin\Debug\net6.0\PhysicalObjectInfo.Infrastructure.deps.json
+D:\PhysicalObjectInfo\PhysicalObjectInfo.Infrastructure\bin\Debug\net6.0\PhysicalObjectInfo.Infrastructure.runtimeconfig.json
+D:\PhysicalObjectInfo\PhysicalObjectInfo.Infrastructure\bin\Debug\net6.0\PhysicalObjectInfo.Infrastructure.dll
+D:\PhysicalObjectInfo\PhysicalObjectInfo.Infrastructure\bin\Debug\net6.0\PhysicalObjectInfo.Infrastructure.pdb
+D:\PhysicalObjectInfo\PhysicalObjectInfo.Infrastructure\bin\Debug\net6.0\PhysicalObjectInfo.Domain.dll
+D:\PhysicalObjectInfo\PhysicalObjectInfo.Infrastructure\bin\Debug\net6.0\PhysicalObjectInfo.Domain.pdb
+D:\PhysicalObjectInfo\PhysicalObjectInfo.Infrastructure\obj\Debug\net6.0\PhysicalObjectInfo.Infrastructure.csproj.AssemblyReference.cache
+D:\PhysicalObjectInfo\PhysicalObjectInfo.Infrastructure\obj\Debug\net6.0\PhysicalObjectInfo.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\PhysicalObjectInfo\PhysicalObjectInfo.Infrastructure\obj\Debug\net6.0\PhysicalObjectInfo.Infrastructure.AssemblyInfoInputs.cache
+D:\PhysicalObjectInfo\PhysicalObjectInfo.Infrastructure\obj\Debug\net6.0\PhysicalObjectInfo.Infrastructure.AssemblyInfo.cs
+D:\PhysicalObjectInfo\PhysicalObjectInfo.Infrastructure\obj\Debug\net6.0\PhysicalObjectInfo.Infrastructure.csproj.CoreCompileInputs.cache
+D:\PhysicalObjectInfo\PhysicalObjectInfo.Infrastructure\obj\Debug\net6.0\PhysicalObjectInfo.Infrastructure.csproj.CopyComplete
+D:\PhysicalObjectInfo\PhysicalObjectInfo.Infrastructure\obj\Debug\net6.0\PhysicalObjectInfo.Infrastructure.dll
+D:\PhysicalObjectInfo\PhysicalObjectInfo.Infrastructure\obj\Debug\net6.0\refint\PhysicalObjectInfo.Infrastructure.dll
+D:\PhysicalObjectInfo\PhysicalObjectInfo.Infrastructure\obj\Debug\net6.0\PhysicalObjectInfo.Infrastructure.pdb
+D:\PhysicalObjectInfo\PhysicalObjectInfo.Infrastructure\obj\Debug\net6.0\PhysicalObjectInfo.Infrastructure.genruntimeconfig.cache
+D:\PhysicalObjectInfo\PhysicalObjectInfo.Infrastructure\obj\Debug\net6.0\ref\PhysicalObjectInfo.Infrastructure.dll

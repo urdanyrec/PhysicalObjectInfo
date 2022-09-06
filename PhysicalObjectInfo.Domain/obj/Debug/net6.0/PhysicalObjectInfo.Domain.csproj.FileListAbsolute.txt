@@ -1,0 +1,36 @@
+C:\Users\urdan\source\repos\PhysicalObjectInfo\PhysicalObjectInfo.Domain\bin\Debug\net6.0\PhysicalObjectInfo.Domain.deps.json
+C:\Users\urdan\source\repos\PhysicalObjectInfo\PhysicalObjectInfo.Domain\bin\Debug\net6.0\PhysicalObjectInfo.Domain.dll
+C:\Users\urdan\source\repos\PhysicalObjectInfo\PhysicalObjectInfo.Domain\bin\Debug\net6.0\ref\PhysicalObjectInfo.Domain.dll
+C:\Users\urdan\source\repos\PhysicalObjectInfo\PhysicalObjectInfo.Domain\bin\Debug\net6.0\PhysicalObjectInfo.Domain.pdb
+C:\Users\urdan\source\repos\PhysicalObjectInfo\PhysicalObjectInfo.Domain\obj\Debug\net6.0\PhysicalObjectInfo.Domain.csproj.AssemblyReference.cache
+C:\Users\urdan\source\repos\PhysicalObjectInfo\PhysicalObjectInfo.Domain\obj\Debug\net6.0\PhysicalObjectInfo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\urdan\source\repos\PhysicalObjectInfo\PhysicalObjectInfo.Domain\obj\Debug\net6.0\PhysicalObjectInfo.Domain.AssemblyInfoInputs.cache
+C:\Users\urdan\source\repos\PhysicalObjectInfo\PhysicalObjectInfo.Domain\obj\Debug\net6.0\PhysicalObjectInfo.Domain.AssemblyInfo.cs
+C:\Users\urdan\source\repos\PhysicalObjectInfo\PhysicalObjectInfo.Domain\obj\Debug\net6.0\PhysicalObjectInfo.Domain.csproj.CoreCompileInputs.cache
+C:\Users\urdan\source\repos\PhysicalObjectInfo\PhysicalObjectInfo.Domain\obj\Debug\net6.0\PhysicalObjectInfo.Domain.dll
+C:\Users\urdan\source\repos\PhysicalObjectInfo\PhysicalObjectInfo.Domain\obj\Debug\net6.0\ref\PhysicalObjectInfo.Domain.dll
+C:\Users\urdan\source\repos\PhysicalObjectInfo\PhysicalObjectInfo.Domain\obj\Debug\net6.0\PhysicalObjectInfo.Domain.pdb
+C:\Users\urdan\OneDrive\Рабочий стол\ВКР\PhysicalObjectInfo\PhysicalObjectInfo.Domain\bin\Debug\net6.0\PhysicalObjectInfo.Domain.deps.json
+C:\Users\urdan\OneDrive\Рабочий стол\ВКР\PhysicalObjectInfo\PhysicalObjectInfo.Domain\bin\Debug\net6.0\PhysicalObjectInfo.Domain.dll
+C:\Users\urdan\OneDrive\Рабочий стол\ВКР\PhysicalObjectInfo\PhysicalObjectInfo.Domain\bin\Debug\net6.0\ref\PhysicalObjectInfo.Domain.dll
+C:\Users\urdan\OneDrive\Рабочий стол\ВКР\PhysicalObjectInfo\PhysicalObjectInfo.Domain\bin\Debug\net6.0\PhysicalObjectInfo.Domain.pdb
+C:\Users\urdan\OneDrive\Рабочий стол\ВКР\PhysicalObjectInfo\PhysicalObjectInfo.Domain\obj\Debug\net6.0\PhysicalObjectInfo.Domain.csproj.AssemblyReference.cache
+C:\Users\urdan\OneDrive\Рабочий стол\ВКР\PhysicalObjectInfo\PhysicalObjectInfo.Domain\obj\Debug\net6.0\PhysicalObjectInfo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\urdan\OneDrive\Рабочий стол\ВКР\PhysicalObjectInfo\PhysicalObjectInfo.Domain\obj\Debug\net6.0\PhysicalObjectInfo.Domain.AssemblyInfoInputs.cache
+C:\Users\urdan\OneDrive\Рабочий стол\ВКР\PhysicalObjectInfo\PhysicalObjectInfo.Domain\obj\Debug\net6.0\PhysicalObjectInfo.Domain.AssemblyInfo.cs
+C:\Users\urdan\OneDrive\Рабочий стол\ВКР\PhysicalObjectInfo\PhysicalObjectInfo.Domain\obj\Debug\net6.0\PhysicalObjectInfo.Domain.csproj.CoreCompileInputs.cache
+C:\Users\urdan\OneDrive\Рабочий стол\ВКР\PhysicalObjectInfo\PhysicalObjectInfo.Domain\obj\Debug\net6.0\PhysicalObjectInfo.Domain.dll
+C:\Users\urdan\OneDrive\Рабочий стол\ВКР\PhysicalObjectInfo\PhysicalObjectInfo.Domain\obj\Debug\net6.0\ref\PhysicalObjectInfo.Domain.dll
+C:\Users\urdan\OneDrive\Рабочий стол\ВКР\PhysicalObjectInfo\PhysicalObjectInfo.Domain\obj\Debug\net6.0\PhysicalObjectInfo.Domain.pdb
+D:\PhysicalObjectInfo\PhysicalObjectInfo.Domain\bin\Debug\net6.0\PhysicalObjectInfo.Domain.deps.json
+D:\PhysicalObjectInfo\PhysicalObjectInfo.Domain\bin\Debug\net6.0\PhysicalObjectInfo.Domain.dll
+D:\PhysicalObjectInfo\PhysicalObjectInfo.Domain\bin\Debug\net6.0\PhysicalObjectInfo.Domain.pdb
+D:\PhysicalObjectInfo\PhysicalObjectInfo.Domain\obj\Debug\net6.0\PhysicalObjectInfo.Domain.csproj.AssemblyReference.cache
+D:\PhysicalObjectInfo\PhysicalObjectInfo.Domain\obj\Debug\net6.0\PhysicalObjectInfo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\PhysicalObjectInfo\PhysicalObjectInfo.Domain\obj\Debug\net6.0\PhysicalObjectInfo.Domain.AssemblyInfoInputs.cache
+D:\PhysicalObjectInfo\PhysicalObjectInfo.Domain\obj\Debug\net6.0\PhysicalObjectInfo.Domain.AssemblyInfo.cs
+D:\PhysicalObjectInfo\PhysicalObjectInfo.Domain\obj\Debug\net6.0\PhysicalObjectInfo.Domain.csproj.CoreCompileInputs.cache
+D:\PhysicalObjectInfo\PhysicalObjectInfo.Domain\obj\Debug\net6.0\PhysicalObjectInfo.Domain.dll
+D:\PhysicalObjectInfo\PhysicalObjectInfo.Domain\obj\Debug\net6.0\refint\PhysicalObjectInfo.Domain.dll
+D:\PhysicalObjectInfo\PhysicalObjectInfo.Domain\obj\Debug\net6.0\PhysicalObjectInfo.Domain.pdb
+D:\PhysicalObjectInfo\PhysicalObjectInfo.Domain\obj\Debug\net6.0\ref\PhysicalObjectInfo.Domain.dll

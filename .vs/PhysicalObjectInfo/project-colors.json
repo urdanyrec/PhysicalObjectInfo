@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5cb0e57d-1714-476e-a630-44b9d0f8b0b9": {
+      "ProjectGuid": "5cb0e57d-1714-476e-a630-44b9d0f8b0b9",
+      "DisplayName": "PhysicalObjectInfo.API",
+      "ColorIndex": 0
+    },
+    "e4dd3f93-bdac-4335-ad6f-3c2327934c81": {
+      "ProjectGuid": "e4dd3f93-bdac-4335-ad6f-3c2327934c81",
+      "DisplayName": "PhysicalObjectInfo.Domain",
+      "ColorIndex": 1
+    },
+    "ae9b5662-3d80-4ca9-b040-469b0827dba8": {
+      "ProjectGuid": "ae9b5662-3d80-4ca9-b040-469b0827dba8",
+      "DisplayName": "PhysicalObjectInfo.Infrastructure",
+      "ColorIndex": 2
+    },
+    "b0f92b50-5028-4ef0-9ee6-818af84689d1": {
+      "ProjectGuid": "b0f92b50-5028-4ef0-9ee6-818af84689d1",
+      "DisplayName": "TestProject",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 4
+}
